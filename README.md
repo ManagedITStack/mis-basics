@@ -15,4 +15,4 @@ We are open to any and all tools on the market so if you have content to share, 
 
 Contact Us
 ----------
-You can find many of the members in the [##labtech IRC channel on FreeNode](http://webchat.freenode.net/?channels=%23%23labtech&uio=d4) or in the [managed IT subreddit](http://reddit.com/r/managedIT).
+You can find many of the members in the [##labtech IRC channel on FreeNode](http://webchat.freenode.net/?channels=%23%23labtech&uio=d4) or in the [managed IT subreddit](http://reddit.com/r/managedIT). We would be happy to try to help with any questions you may have.
