@@ -11,6 +11,11 @@ Currently we have members that use the following Managed Service tools and as su
 * [Quosal](http://www.quosal.com/)
 * [Quoteworks](http://www.quotewerks.com/)
 
+How can I contribute to the stack?
+----------
+Contributing to the stack is pretty easy once you master Github. Just follow our instructions here:
+http://www.reddit.com/r/managedit/wiki/howtocontributetoourgithub
+
 We are open to any and all tools on the market so if you have content to share, please do not hesitate to contribute.
 
 Contact Us
